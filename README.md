@@ -1,36 +1,37 @@
-# Olá, eu sou Thiago Rodrigues Da Silva 👋
+# Olá, eu sou Thiago Rodrigues 👋
 
-Seja bem-vindo(a) ao meu portfólio profissional! Estou em transição de carreira, consolidando uma formação de **alta especialização em Ciência e Análise de Dados**. Meu objetivo é dominar o ecossistema completo dos dados: desde a extração e automação até a modelagem preditiva e geração de insights de negócios.
+Estou em transição de carreira para a área de **Análise de Dados**, desenvolvendo projetos práticos para aplicar e consolidar meus conhecimentos em dados.
 
----
+Meu objetivo é transformar dados em informações que possam apoiar análises, decisões e geração de insights.
 
-## 🚀 Minha Trilha de Especialização
+## 📊 Sobre meus projetos
 
-Estou desenvolvendo minhas habilidades técnicas através de uma matriz curricular avançada, dividida em fases de aprendizado:
+Este perfil acompanha minha evolução na área de dados por meio de projetos práticos.
 
-### 🟢 Fase Atual: Fundamentos e Automação
-*   **Lógica de Programação:** Scripts práticos e automações matemáticas utilizando Python.
-*   **Estruturas de Dados:** Manipulação de listas, dicionários e funções essenciais.
+Os projetos exploram diferentes etapas do processo de análise de dados, incluindo:
 
-### 🟡 Próximos Passos: Análise e Visualização [Em Breve]
-*   **Análise Avançada com Python:** Domínio da biblioteca `Pandas` (Limpeza, tratamento e manipulação estrutural) e Estatística Aplicada.
-*   **Banco de Dados & SQL:** Estruturas complexas, `Joins`, `Views` e modelagem relacional com `MySQL` e `SQLite`.
-*   **Business Intelligence:** Modelagem de dados avançada, cálculos com linguagem `DAX` e Dashboards interativos no `Power BI`.
+* 🐍 **Python** — lógica, tratamento e análise de dados
+* 🗄️ **SQL** — consultas, manipulação e análise de dados
+* 📈 **Power BI** — visualização de dados e construção de dashboards
+* 📊 **Análise de Dados** — exploração, tratamento e geração de insights
 
-### 🔵 Etapa Avançada: Big Data e Inteligência Artificial [Planejado]
-*   **Data Warehouse & Nuvem:** Manipulação de grandes volumes de dados utilizando o `Google BigQuery`.
-*   **Machine Learning:** Desenvolvimento de modelos preditivos e algoritmos de Inteligência Artificial.
-*   **Engenharia de Dados:** Criação de pipelines e fluxos de `ETL na Nuvem`.
+Estou adicionando novos projetos regularmente conforme avanço nos estudos.
 
----
+## 🛠️ Tecnologias
 
-## 📁 Laboratórios em Destaque
+`Python` `SQL` `Power BI` `Pandas` `Jupyter Notebook` `Git` `GitHub`
 
-*   🚀 **[primeiros-passos-python-dados](https://github.com):** Meu diário de bordo inicial em Python. Documentado via Notebooks Jupyter (`.ipynb`), aplicando loops compostos (`while`), condicionais e automações básicas. *(Em constante atualização à medida que avanço nos módulos)*
+## 🚀 Projetos
 
----
+Os projetos estão organizados individualmente nos repositórios deste perfil, com documentação sobre os objetivos, ferramentas utilizadas e principais resultados.
 
-## 📬 Vamos nos conectar e trocar ideias?
+> Meu objetivo é construir um portfólio que demonstre não apenas as ferramentas que estou aprendendo, mas principalmente **como utilizo dados para resolver problemas e gerar informações úteis**.
 
-*   💼 [Meu LinkedIn](https://www.linkedin.com/in/thiago-rodrigues-dados)
-*   📧 ogarodrigues@gmail.com
+## 📚 Atualmente estudando
+
+Aprofundando meus conhecimentos em **Análise de Dados**, com foco em Python, SQL, visualização e tratamento de dados.
+
+## 📫 Contato
+
+* 💼 [LinkedIn](www.linkedin.com/in/thiago-rodrigues-dados)
+* 📧 [E-mail](mailto:ogararodrigues@gmail.com)
